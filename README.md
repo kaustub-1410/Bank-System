@@ -1,4 +1,4 @@
-Bank System Repository
+                                                                                    Bank System Repository
 Welcome to the Bank System repository! This project is a comprehensive bank management solution developed using Java for its core logic and SQL for the database backend. The system is designed to provide robust banking operations with a user-friendly interface enhanced by the innovative Tuilio effect for graphics.
 
 Table of Contents
